@@ -194,3 +194,11 @@ hr {
 .vertical-space-extra-large {
 	margin-top: 4em;
 }
+
+.about-photo {
+	height: 300px;
+}
+
+.about-no-photo {
+	height: 180px;
+}
